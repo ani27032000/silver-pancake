@@ -3,6 +3,7 @@
 
 
 module.exports = {
-    mongoURI: "mongodb://localhost:27017",
+ 
+  mongoURI:  "mongodb+srv://ani_agrawal:<9413394018>@cluster0.bpqev.mongodb.net/myFirstDatabase?retryWrites=true&w=majority" ,
     secretOrKey: "pass" 
   };
